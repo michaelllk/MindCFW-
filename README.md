@@ -4,7 +4,7 @@ A complete safe way to mod your brain safely! Made for fun
 
 # Instructions 
 
-### 1) First, get an SD Card, doesn't really matter the size, because the CFW is less than 1MB😭
+#### 1) First, get an SD Card, doesn't really matter the size, because the CFW is less than 1MB😭
 
 
 ### 2) Download the .zip file from the releases and extract the archive.
