@@ -1,5 +1,5 @@
 # MindCFW-
-A complete safe way to mod your brain safely! Made for fun
+A new way to experience life! A complete safe way to mod your brain safely! Made for fun
 
 
 # Instructions 
